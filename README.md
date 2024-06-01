@@ -4,6 +4,8 @@
 
 :letter: **email**: jorgemooolina@gmail.com
 
-:computer: **GitHub**: J0rgit000
+💻 **GitHub**: J0rgit000
 
-:cat: **Pet** ![Pet](Pet.jpg)
+:cat: **Pet** 
+
+![Pet](Pet.jpg)
