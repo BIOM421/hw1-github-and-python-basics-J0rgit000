@@ -2,9 +2,9 @@
 
 :wave: **My Name**: Jorge Molina
 
-:letter: **email**: jorgemooolina@gmail.com
+:email: **email**: jorgemooolina@gmail.com
 
-💻 **GitHub**: J0rgit000
+:computer: **GitHub**: J0rgit000
 
 :cat: **Pet** 
 
